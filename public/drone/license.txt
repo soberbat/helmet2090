@@ -1,0 +1,11 @@
+Model Information:
+* title:	Drone Scout HyperX
+* source:	https://sketchfab.com/3d-models/drone-scout-hyperx-da388c84e442474fa5f464a2cc1f32b2
+* author:	Lukas Bobor (https://sketchfab.com/LukasBobor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Drone Scout HyperX" (https://sketchfab.com/3d-models/drone-scout-hyperx-da388c84e442474fa5f464a2cc1f32b2) by Lukas Bobor (https://sketchfab.com/LukasBobor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
